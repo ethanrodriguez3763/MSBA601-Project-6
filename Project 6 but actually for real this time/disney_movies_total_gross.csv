@@ -1,0 +1,580 @@
+﻿movie_title,release_date,genre,MPAA_rating,total_gross,inflation_adjusted_gross
+Snow White and the Seven Dwarfs,21-Dec-37,Musical,G,184925485.00,5228953251.00
+Pinocchio,9-Feb-40,Adventure,G,84300000.00,2188229052.00
+Fantasia,13-Nov-40,Musical,G,83320000.00,2187090808.00
+Song of the South,12-Nov-46,Adventure,G,65000000.00,1078510579.00
+Cinderella,15-Feb-50,Drama,G,85000000.00,920608730.00
+"20,000 Leagues Under the Sea",23-Dec-54,Adventure,,28200000.00,528279994.00
+Lady and the Tramp,22-Jun-55,Drama,G,93600000.00,1236035515.00
+Sleeping Beauty,29-Jan-59,Drama,,9464608.00,21505832.00
+101 Dalmatians,25-Jan-61,Comedy,G,153000000.00,1362870985.00
+The Absent Minded Professor,16-Mar-61,Comedy,,25381407.00,310094574.00
+Babes in Toyland,14-Dec-61,Musical,G,10218316.00,124841160.00
+Bon Voyage!,17-May-62,Comedy,Not Rated,9230769.00,109581646.00
+The Sword in the Stone,25-Dec-63,Adventure,,22182353.00,153870834.00
+The Jungle Book,18-Oct-67,Musical,Not Rated,141843000.00,789612346.00
+Blackbeard's Ghost,8-Feb-68,Comedy,,21540050.00,138612686.00
+The Aristocats,24-Apr-70,Musical,G,55675257.00,255161499.00
+The Boatniks,1-Jul-70,Comedy,,18607492.00,101200742.00
+Bedknobs and Broomsticks,7-Oct-71,Musical,,17871174.00,91305448.00
+The Apple Dumpling Gang,1-Jul-75,Comedy,,31916500.00,131246872.00
+Freaky Friday,21-Jan-77,Comedy,,25942000.00,98067733.00
+The Many Adventures of Winnie the Pooh,11-Mar-77,,,0.00,0.00
+The Rescuers,22-Jun-77,Adventure,,48775599.00,159743914.00
+Herbie Goes to Monte Carlo,24-Jun-77,,,28000000.00,105847527.00
+The Black Hole,21-Dec-79,,,35841901.00,120377374.00
+Midnight Madness,8-Feb-80,,,2900000.00,9088096.00
+The Last Flight of Noah’s Ark,25-Jun-80,,,11000000.00,34472116.00
+The Devil and Max Devlin,1-Jan-81,,,16000000.00,48517980.00
+Amy,20-Mar-81,Drama,,0.00,0.00
+The Fox and the Hound,10-Jul-81,Comedy,,43899231.00,133118889.00
+Condorman,7-Aug-81,Action,,0.00,0.00
+Night Crossing,5-Feb-82,Drama,,4500000.00,12903059.00
+Tron,9-Jul-82,Action,,26918576.00,77184895.00
+Tex,19-Nov-82,Drama,,7199408.00,20643199.00
+Trenchcoat,11-Mar-83,Comedy,,4304286.00,11519089.00
+Something Wicked This Way Comes,29-Apr-83,Horror,,5656087.00,15136765.00
+Never Cry Wolf,7-Oct-83,Drama,,27668764.00,70669955.00
+Running Brave,4-Nov-83,Drama,,1204595.00,3223725.00
+Splash,9-Mar-84,Comedy,PG,62599495.00,157057661.00
+Country,29-Sep-84,Drama,,8400000.00,21075000.00
+Baby: Secret of the Lost Legend,22-Mar-85,Adventure,,14276095.00,33900697.00
+Return to Oz,21-Jun-85,Adventure,,10618813.00,25215934.00
+The Black Cauldron,24-Jul-85,Adventure,,21288692.00,50553142.00
+My Science Project,9-Aug-85,Comedy,,4100000.00,9736051.00
+The Journey of Natty Gann,27-Sep-85,Drama,,9468512.00,22302956.00
+One Magic Christmas,22-Nov-85,Drama,,13229514.00,31415432.00
+Down and Out in Beverly Hills,31-Jan-86,Comedy,R,62134225.00,141183693.00
+Off Beat,11-Apr-86,Comedy,,4842778.00,11003932.00
+Ruthless People,27-Jun-86,Comedy,R,71624879.00,162748712.00
+The Great Mouse Detective,2-Jul-86,Adventure,,23605534.00,53637367.00
+Flight of the Navigator,30-Jul-86,Adventure,,18564613.00,42183197.00
+Tough Guys,3-Oct-86,Comedy,,21458229.00,48758184.00
+The Color of Money,17-Oct-86,Drama,R,52293000.00,117957323.00
+Outrageous Fortune,30-Jan-87,Comedy,R,52864741.00,113976921.00
+Tin Men,6-Mar-87,Comedy,,25411386.00,54787202.00
+Ernest Goes to Camp,22-May-87,Comedy,,23509382.00,50686462.00
+Benji the Hunted,5-Jun-87,Adventure,,15212539.00,32798382.00
+Adventures in Babysitting,3-Jul-87,Comedy,,33790923.00,72853569.00
+Stakeout,5-Aug-87,Comedy,R,65673233.00,141592160.00
+Can't Buy Me Love,14-Aug-87,Romantic Comedy,,31623833.00,68181300.00
+Hello Again,6-Nov-87,Comedy,,20419446.00,44024529.00
+3 Men and a Baby,25-Nov-87,Comedy,PG,167780960.00,353334607.00
+Good Morning Vietnam,23-Dec-87,Comedy,R,123922370.00,254414837.00
+Shoot to Kill,12-Feb-88,Action,,29300000.00,60097074.00
+D.O.A.,18-Mar-88,Thriller/Suspense,,12706478.00,26062188.00
+Return to Snowy River,15-Apr-88,Adventure,PG,13687027.00,28073384.00
+Big Business,10-Jun-88,Comedy,PG,40150487.00,82352451.00
+Who Framed Roger Rabbit?,22-Jun-88,Comedy,PG,154112492.00,316250084.00
+Cocktail,29-Jul-88,Drama,R,78222753.00,160442289.00
+The Rescue,5-Aug-88,Action,,5855392.00,12009960.00
+Heartbreak Hotel,30-Sep-88,Comedy,,5509417.00,11300331.00
+The Good Mother,4-Nov-88,Drama,,4764606.00,9772655.00
+Ernest Saves Christmas,11-Nov-88,Comedy,PG,28202109.00,57845202.00
+Oliver & Company,18-Nov-88,Adventure,G,49576671.00,102254492.00
+Beaches,21-Dec-88,Drama,PG-13,57041866.00,120381757.00
+Three Fugitives,27-Jan-89,Comedy,PG-13,40590000.00,85757817.00
+New York Stories,1-Mar-89,Drama,PG,10763469.00,22740861.00
+Disorganized Crime,14-Apr-89,Comedy,,7210149.00,15233465.00
+Dead Poets Society,2-Jun-89,Drama,PG,95860116.00,202531517.00
+"Honey, I Shrunk the Kids",23-Jun-89,Adventure,PG,130724172.00,276191669.00
+Turner & Hooch,28-Jul-89,Comedy,PG,71079915.00,150176361.00
+Cheetah,18-Aug-89,Adventure,,7882250.00,16653473.00
+An Innocent Man,6-Oct-89,Drama,R,19397847.00,40983414.00
+Gross Anatomy,20-Oct-89,Drama,PG-13,11346186.00,23972012.00
+The Little Mermaid,15-Nov-89,Adventure,G,111543479.00,223726012.00
+Blaze,13-Dec-89,Drama,R,19049727.00,39884640.00
+Stella,2-Feb-90,Drama,PG-13,20062347.00,40077147.00
+Where the Heart Is,23-Feb-90,Comedy,,1106475.00,2210321.00
+Pretty Woman,23-Mar-90,Romantic Comedy,R,178406268.00,356389765.00
+Ernest Goes to Jail,6-Apr-90,Comedy,PG,25029569.00,49999822.00
+Spaced Invaders,27-Apr-90,Comedy,PG,15000000.00,29964452.00
+Fire Birds,24-May-90,Action,PG-13,14760451.00,29485923.00
+Dick Tracy,15-Jun-90,Action,PG,103738726.00,207231621.00
+Betsy's Wedding,22-Jun-90,Comedy,R,19740070.00,39433357.00
+Arachnophobia,18-Jul-90,Thriller/Suspense,PG-13,53208180.00,106290270.00
+DuckTales: The Movie - Treasure of th…,3-Aug-90,Adventure,G,18075331.00,36107823.00
+Taking Care of Business,17-Aug-90,Comedy,R,20005435.00,39963460.00
+Mr. Destiny,12-Oct-90,Comedy,PG-13,15379253.00,30722056.00
+The Rescuers Down Under,16-Nov-90,Adventure,G,27931461.00,55796728.00
+3 Men and a Little Lady,21-Nov-90,Comedy,PG,71609321.00,143108869.00
+Green Card,25-Dec-90,Romantic Comedy,PG-13,29804169.00,59679131.00
+White Fang,18-Jan-91,Adventure,PG,34729091.00,69540672.00
+Scenes from a Mall,22-Feb-91,Comedy,,9563393.00,19149495.00
+Haakon Haakonsen,1-Mar-91,Adventure,PG,15024232.00,30084149.00
+The Marrying Man,5-Apr-91,Romantic Comedy,R,12454768.00,24939118.00
+Oscar,26-Apr-91,Comedy,PG,23562716.00,47181395.00
+One Good Cop,3-May-91,Action,R,11276846.00,22580472.00
+What About Bob?,17-May-91,Comedy,PG,63710000.00,127571325.00
+Wild Hearts Can't Be Broken,24-May-91,Drama,,7300000.00,14617333.00
+The Rocketeer,21-Jun-91,Action,PG,46573027.00,93256673.00
+The Doctor,24-Jul-91,Drama,PG-13,37497480.00,75084021.00
+Paradise,18-Sep-91,Drama,PG-13,18634643.00,37313540.00
+Deceived,27-Sep-91,Thriller/Suspense,PG-13,28738096.00,57544453.00
+Ernest Scared Stupid,11-Oct-91,Comedy,PG,14143280.00,28320147.00
+Billy Bathgate,1-Nov-91,Drama,R,15565363.00,31167691.00
+Beauty and the Beast,13-Nov-91,Musical,G,218951625.00,363017667.00
+Father of the Bride,20-Dec-91,Comedy,PG,89325780.00,179821881.00
+The Hand That Rocks the Cradle,10-Jan-92,Thriller/Suspense,R,88036683.00,178831137.00
+Medicine Man,7-Feb-92,Drama,PG-13,44948240.00,91304495.00
+Blame it on the Bellboy,6-Mar-92,Comedy,PG-13,2891055.00,5872667.00
+Noises Off...,20-Mar-92,Comedy,PG-13,2280148.00,4631720.00
+Straight Talk,3-Apr-92,Comedy,PG,21202099.00,43068356.00
+Newsies,8-Apr-92,,PG,2706352.00,5497481.00
+Passed Away,24-Apr-92,,PG-13,4030793.00,8187848.00
+Encino Man,22-May-92,Comedy,PG,40057130.00,81369058.00
+Sister Act,29-May-92,Comedy,PG,139605150.00,283583472.00
+Honey I Blew Up the Kid,17-Jul-92,Comedy,PG,58662452.00,119162518.00
+A Stranger Among Us,17-Jul-92,Drama,PG-13,12282994.00,24950752.00
+3 Ninjas,7-Aug-92,Action,PG,29028000.00,58965304.00
+A Gun in Betty Lou's Handbag,21-Aug-92,,PG-13,3591460.00,7295423.00
+Captain Ron,18-Sep-92,Comedy,PG-13,22518097.00,45741576.00
+Sarafina!,18-Sep-92,Drama,PG-13,7306242.00,14841352.00
+Innocent Blood,25-Sep-92,Horror,R,4877567.00,9907922.00
+The Mighty Ducks,2-Oct-92,Comedy,PG,50752337.00,103120810.00
+1492: Conquest of Paradise,9-Oct-92,Adventure,PG-13,7099531.00,14421454.00
+Consenting Adults,16-Oct-92,Drama,R,21591728.00,43859823.00
+Aladdin,11-Nov-92,Comedy,G,217350219.00,441969178.00
+The Distinguished Gentleman,4-Dec-92,Comedy,R,46434570.00,94349900.00
+The Muppet Christmas Carol,11-Dec-92,Comedy,G,27281507.00,55417615.00
+Alive,15-Jan-93,Adventure,R,36299670.00,73914543.00
+Aspen Extreme,22-Jan-93,Romantic Comedy,PG-13,7843388.00,15970955.00
+Homeward Bound: The Incredible Journey,3-Feb-93,Adventure,G,41833324.00,85182343.00
+The Cemetery Club,3-Feb-93,Comedy,PG-13,5583621.00,11369541.00
+Swing Kids,5-Mar-93,Musical,PG-13,5632086.00,11468231.00
+A Far Off Place,12-Mar-93,Adventure,PG,12890752.00,26248558.00
+Born Yesterday,26-Mar-93,Romantic Comedy,PG,17760754.00,36165012.00
+The Adventures of Huck Finn,2-Apr-93,Adventure,PG,24103594.00,49080505.00
+Bound by Honor,16-Apr-93,,R,4496583.00,9156084.00
+Indian Summer,23-Apr-93,Comedy,R,14717851.00,29968953.00
+Super Mario Bros.,28-May-93,Action,PG,20844907.00,42445058.00
+Guilty as Sin,4-Jun-93,Thriller/Suspense,R,22622537.00,46064723.00
+Life With Mikey,4-Jun-93,Comedy,PG,12349549.00,25146538.00
+What's Love Got to Do With It,9-Jun-93,Drama,R,39100956.00,79618610.00
+Son in Law,2-Jul-93,Comedy,PG-13,25989889.00,52921433.00
+Hocus Pocus,16-Jul-93,Comedy,PG,39360491.00,80147079.00
+Another Stakeout,23-Jul-93,Comedy,PG-13,20107504.00,40943541.00
+My Boyfriend's Back,6-Aug-93,,PG-13,3218882.00,6554384.00
+Father Hood,27-Aug-93,,PG-13,3268203.00,6654819.00
+The Joy Luck Club,8-Sep-93,Drama,R,32790064.00,66768171.00
+Money for Nothing,10-Sep-93,Comedy,R,1044824.00,2127496.00
+The Program,24-Sep-93,Action,R,23042200.00,46919256.00
+Cool Runnings,1-Oct-93,Comedy,PG,68856263.00,140392731.00
+The Nightmare Before Christmas,13-Oct-93,Musical,PG,50408318.00,100026637.00
+The Three Musketeers,12-Nov-93,Adventure,PG,53661805.00,109310377.00
+Sister Act 2 Back in the Habit,10-Dec-93,Comedy,PG,57319029.00,116965668.00
+Tombstone,25-Dec-93,Western,R,56505065.00,115781734.00
+The Air Up There,7-Jan-94,Comedy,PG,20782439.00,42940186.00
+Cabin Boy,7-Jan-94,Comedy,PG-13,3469493.00,7168577.00
+Iron Will,14-Jan-94,Drama,PG,20623071.00,42610902.00
+Red Rock West,28-Jan-94,,R,2502551.00,5170709.00
+Blank Check,11-Feb-94,Comedy,PG,30573770.00,63170804.00
+Angie,4-Mar-94,Comedy,R,9252349.00,19116981.00
+The Ref,9-Mar-94,Comedy,R,11325885.00,23401275.00
+D2: The Mighty Ducks,25-Mar-94,Comedy,PG,45604206.00,94226333.00
+Holy Matrimony,8-Apr-94,Comedy,,713234.00,1473665.00
+White Fang 2: Myth of the White Wolf,15-Apr-94,Adventure,PG,8752399.00,18083994.00
+The Inkwell,22-Apr-94,Comedy,R,8864699.00,18316030.00
+When a Man Loves a Woman,29-Apr-94,Drama,R,50021959.00,103354194.00
+3 Ninjas Kick Back,6-May-94,Action,PG,11744960.00,24267154.00
+Renaissance Man,3-Jun-94,Comedy,PG-13,24172899.00,49945474.00
+The Lion King,15-Jun-94,Adventure,G,422780140.00,761640898.00
+I Love Trouble,29-Jun-94,Romantic Comedy,PG,30806194.00,63651027.00
+Angels in the Outfield,15-Jul-94,Comedy,PG,50236831.00,103798152.00
+In the Army Now,12-Aug-94,Comedy,PG,28881266.00,59673787.00
+Color of Night,19-Aug-94,Thriller/Suspense,R,19750470.00,40804816.00
+Camp Nowhere,26-Aug-94,Comedy,PG,10442641.00,21576332.00
+It's Pat,26-Aug-94,Comedy,,60822.00,125666.00
+A Simple Twist of Fate,2-Sep-94,Drama,PG-13,3404935.00,7035189.00
+Quiz Show,14-Sep-94,Drama,PG-13,24787282.00,50840394.00
+Terminal Velocity,23-Sep-94,Action,PG-13,16478900.00,34048315.00
+Ed Wood,30-Sep-94,Comedy,R,5828466.00,12042634.00
+The Puppet Masters,21-Oct-94,Horror,R,8579626.00,17727017.00
+Squanto: A Warrior's Tale,28-Oct-94,Drama,PG,3319344.00,6858345.00
+The Santa Clause,11-Nov-94,Comedy,PG,144833357.00,298369717.00
+A Low Down Dirty Shame,23-Nov-94,Action,R,29317886.00,60321919.00
+The Jungle Book,25-Dec-94,Adventure,PG,44342956.00,88930321.00
+Houseguest,6-Jan-95,Comedy,PG,26325256.00,51016522.00
+Bad Company,20-Jan-95,Thriller/Suspense,R,3523909.00,6829092.00
+Miami Rhapsody,27-Jan-95,Romantic Comedy,PG-13,5086578.00,9857435.00
+The Jerky Boys,3-Feb-95,Comedy,R,7555256.00,14641561.00
+Heavy Weights,17-Feb-95,Comedy,PG,17671310.00,34245779.00
+Man of the House,3-Mar-95,Comedy,PG,40029009.00,77573459.00
+Roommates,3-Mar-95,Comedy,PG,12076989.00,23404369.00
+Tall Tale,24-Mar-95,Western,PG,8247627.00,15983331.00
+A Pyromaniac's Love Story,28-Mar-95,Romantic Comedy,PG,468240.00,907414.00
+Jefferson in Paris,31-Mar-95,Drama,PG-13,2461628.00,4770461.00
+Funny Bones,31-Mar-95,Comedy,R,529135.00,1025425.00
+A Goofy Movie,7-Apr-95,Comedy,G,35336439.00,68479579.00
+While You Were Sleeping,21-Apr-95,Romantic Comedy,PG,81057016.00,157082900.00
+Crimson Tide,12-May-95,Action,R,91387195.00,177102077.00
+Mad Love,26-May-95,Drama,PG-13,15446532.00,29934306.00
+Pocahontas,10-Jun-95,Adventure,G,141579773.00,274370957.00
+Judge Dredd,30-Jun-95,Action,R,34687912.00,67222776.00
+Operation Dumbo Drop,28-Jul-95,Adventure,PG,24670346.00,47809421.00
+Dangerous Minds,11-Aug-95,Drama,R,84919401.00,164552293.00
+A Kid in King Arthur's Court,11-Aug-95,Adventure,PG,13406717.00,25981285.00
+The Tie That Binds,8-Sep-95,Thriller/Suspense,R,5762795.00,11167895.00
+Unstrung Heroes,15-Sep-95,Drama,PG,7929000.00,15365850.00
+The Big Green,29-Sep-95,Comedy,PG,17736619.00,34372339.00
+Dead Presidents,4-Oct-95,Drama,R,24120194.00,46741467.00
+The Scarlet Letter,13-Oct-95,Drama,R,10359006.00,20075033.00
+Feast of July,13-Oct-95,Drama,R,293274.00,568342.00
+Powder,27-Oct-95,Drama,PG-13,30833914.00,59727216.00
+Toy Story,22-Nov-95,Adventure,G,191796233.00,370409631.00
+Father of the Bride Part II,8-Dec-95,Comedy,PG,76578911.00,147658438.00
+Nixon,20-Dec-95,Drama,R,13668249.00,26302005.00
+Tom and Huck,22-Dec-95,Adventure,PG,23837227.00,45911517.00
+Mr. Holland's Opus,29-Dec-95,Drama,PG,82582604.00,157508868.00
+White Squall,2-Feb-96,Adventure,PG-13,10229300.00,19509726.00
+Muppet Treasure Island,16-Feb-96,Adventure,G,34327391.00,65470567.00
+Mr. Wrong,16-Feb-96,Romantic Comedy,PG-13,12805071.00,24422334.00
+Before and After,23-Feb-96,Drama,PG-13,8642118.00,16482589.00
+Up Close & Personal,1-Mar-96,Drama,PG-13,51045801.00,97356578.00
+Homeward Bound II: Lost in San Franc…,8-Mar-96,Adventure,G,32709423.00,62384706.00
+Two Much,15-Mar-96,Romantic Comedy,PG-13,1078555.00,2057055.00
+Un indien dans la ville,22-Mar-96,Comedy,PG,1029731.00,1963937.00
+James and the Giant Peach,12-Apr-96,Adventure,PG,28921264.00,55159783.00
+Celtic Pride,19-Apr-96,Comedy,PG-13,9240378.00,17623615.00
+Last Dance,3-May-96,Drama,R,5857534.00,11171714.00
+Boys,10-May-96,Drama,PG-13,21930418.00,41826566.00
+Spy Hard,24-May-96,Comedy,PG-13,26936265.00,51373912.00
+Eddie,31-May-96,Comedy,PG-13,31369401.00,59828966.00
+The Rock,7-Jun-96,Action,R,134069511.00,255702705.00
+The Hunchback of Notre Dame,21-Jun-96,Adventure,G,100138851.00,190988799.00
+Phenomenon,5-Jul-96,Drama,PG,104636382.00,199559799.00
+Kazaam,17-Jul-96,Comedy,PG,18880508.00,36009655.00
+Jack,9-Aug-96,Drama,PG-13,58617334.00,111792852.00
+First Kid,30-Aug-96,Comedy,PG,26465920.00,50465108.00
+The Rich Man's Wife,13-Sep-96,Thriller/Suspense,R,8538318.00,16284619.00
+D3: The Mighty Ducks,4-Oct-96,Comedy,PG,22936273.00,43713554.00
+The Associate,25-Oct-96,Comedy,PG-13,12772657.00,24333094.00
+Ransom,8-Nov-96,Action,R,136492681.00,259807820.00
+The War at Home,20-Nov-96,,R,34368.00,65543.00
+101 Dalmatians,27-Nov-96,Comedy,G,136189294.00,258728898.00
+The Preacher's Wife,13-Dec-96,Drama,PG,48102795.00,91076877.00
+Evita,25-Dec-96,Musical,PG,50047179.00,92077628.00
+Metro,17-Jan-97,Action,R,32017895.00,58804106.00
+Prefontaine,24-Jan-97,Drama,PG-13,590817.00,1085093.00
+Shadow Conspiracy,31-Jan-97,Thriller/Suspense,R,2154540.00,3957025.00
+That Darn Cat,14-Feb-97,Comedy,PG,18301828.00,33613158.00
+Jungle 2 Jungle,7-Mar-97,Comedy,PG,59925026.00,110058379.00
+The Sixth Man,28-Mar-97,Comedy,PG-13,14765099.00,27117599.00
+Grosse Pointe Blank,11-Apr-97,Black Comedy,R,28084357.00,51579764.00
+Romy and Michele's High School Reunion,25-Apr-97,Comedy,R,29235353.00,53693680.00
+Gone Fishin',30-May-97,Comedy,PG,19745922.00,36265379.00
+Con Air,6-Jun-97,Action,R,101117573.00,185712664.00
+Hercules,13-Jun-97,Adventure,G,99112101.00,182029412.00
+George Of The Jungle,16-Jul-97,Comedy,PG,105263257.00,193326632.00
+Nothing To Lose,18-Jul-97,Comedy,R,44480039.00,81692095.00
+Air Bud,1-Aug-97,Comedy,PG,24646936.00,45266588.00
+G.I. Jane,22-Aug-97,Drama,R,48169156.00,88467531.00
+A Thousand Acres,19-Sep-97,Drama,R,7928412.00,14561324.00
+Washington Square,5-Oct-97,Drama,PG,1775644.00,3257546.00
+Rocket Man,10-Oct-97,Comedy,PG,15448043.00,28371890.00
+Playing God,17-Oct-97,Thriller/Suspense,R,4166918.00,7652965.00
+Flubber,26-Nov-97,Comedy,PG,92993801.00,170406423.00
+An American Werewolf in Paris,25-Dec-97,Horror,R,26570463.00,48546161.00
+Mr. Magoo,25-Dec-97,Comedy,PG,21437192.00,39145784.00
+Kundun,25-Dec-97,Drama,PG-13,5686694.00,10236836.00
+Deep Rising,30-Jan-98,Action,R,11203026.00,20136775.00
+Krippendorf's Tribe,27-Feb-98,Comedy,PG-13,7571115.00,13608633.00
+An Alan Smithee Film: Burn Hollywood …,27-Feb-98,Comedy,R,45779.00,82277.00
+Meet the Deedles,27-Mar-98,Comedy,PG,4356126.00,7829877.00
+He Got Game,1-May-98,Drama,R,21567853.00,38766948.00
+The Horse Whisperer,15-May-98,Drama,PG-13,75383563.00,135497531.00
+"Six Days, Seven Nights",12-Jun-98,Romantic Comedy,PG-13,74339294.00,133620516.00
+Mulan,19-Jun-98,Adventure,G,120620254.00,216807832.00
+Armageddon,1-Jul-98,Adventure,PG-13,201578182.00,362324957.00
+Jane Austen's Mafia,24-Jul-98,Comedy,PG-13,19843795.00,35668055.00
+The Parent Trap,29-Jul-98,Comedy,PG,66308518.00,119185667.00
+Firelight,4-Sep-98,Drama,R,784419.00,1409943.00
+Simon Birch,11-Sep-98,Drama,PG,18253415.00,32809442.00
+Holy Man,9-Oct-98,Comedy,PG,12069719.00,21694605.00
+Beloved,16-Oct-98,Drama,R,22852487.00,41062682.00
+The Waterboy,6-Nov-98,Comedy,PG-13,161491646.00,288691833.00
+I'll Be Home For Christmas,13-Nov-98,Comedy,PG,12214338.00,21941840.00
+A Bug's Life,20-Nov-98,Adventure,G,162798565.00,288981698.00
+Enemy of the State,20-Nov-98,Action,R,111549836.00,198472008.00
+Rushmore,11-Dec-98,Black Comedy,R,17105219.00,28392518.00
+A Civil Action,25-Dec-98,Drama,PG-13,56709981.00,94139530.00
+Mighty Joe Young,25-Dec-98,Adventure,PG,50632037.00,87906042.00
+My Favorite Martian,12-Feb-99,Comedy,PG,36850101.00,61150849.00
+The Other Sister,26-Feb-99,Romantic Comedy,PG-13,27807627.00,46145331.00
+Doug's 1st Movie,26-Mar-99,Adventure,G,19421271.00,32228598.00
+Ten Things I Hate About You,31-Mar-99,Romantic Comedy,PG-13,38177966.00,63354375.00
+Endurance,14-May-99,,PG,229128.00,380218.00
+Instinct,4-Jun-99,Drama,R,34105207.00,56595842.00
+Tarzan,16-Jun-99,Adventure,G,171091819.00,283900254.00
+Summer of Sam,2-Jul-99,Drama,R,19288130.00,32007656.00
+Inspector Gadget,23-Jul-99,Comedy,PG,97387965.00,161610341.00
+The Sixth Sense,6-Aug-99,Thriller/Suspense,PG-13,293506292.00,485424724.00
+The 13th Warrior,27-Aug-99,Action,R,32698899.00,54262148.00
+Breakfast of Champions,17-Sep-99,Comedy,R,178287.00,295851.00
+Mumford,24-Sep-99,Comedy,R,4559569.00,7566363.00
+"Mystery, Alaska",1-Oct-99,Comedy,R,8891623.00,14755189.00
+The Straight Story,15-Oct-99,Drama,G,6197866.00,10111144.00
+The Insider,5-Nov-99,Drama,R,28965197.00,47794214.00
+Toy Story 2,19-Nov-99,Adventure,G,245852179.00,404450426.00
+Cradle Will Rock,8-Dec-99,Drama,R,2899970.00,4609153.00
+Deuce Bigalow: Male Gigolo,10-Dec-99,Comedy,R,65535067.00,106921374.00
+Bicentennial Man,17-Dec-99,Drama,PG,58220776.00,94838225.00
+Play it to the Bone,24-Dec-99,Comedy,R,8427204.00,13180524.00
+Fantasia 2000 (IMAX),1-Jan-00,Musical,G,60507228.00,94852354.00
+Gun Shy,4-Feb-00,Comedy,R,1638202.00,2562155.00
+The Tigger Movie,11-Feb-00,Adventure,G,45542421.00,71228678.00
+Mission to Mars,10-Mar-00,Adventure,PG,60874615.00,95208344.00
+High Fidelity,31-Mar-00,Comedy,R,27277055.00,42661516.00
+Keeping the Faith,14-Apr-00,Romantic Comedy,PG-13,37036404.00,57925202.00
+Dinosaur,19-May-00,Adventure,PG,137748063.00,215438985.00
+Shanghai Noon,26-May-00,Western,PG-13,56932305.00,89042541.00
+Gone in 60 Seconds,9-Jun-00,Action,PG-13,101643008.00,158970411.00
+Fantasia 2000 (Theatrical Release),16-Jun-00,Musical,G,9103630.00,14238144.00
+The Kid,7-Jul-00,Comedy,PG,69688384.00,108993148.00
+Coyote Ugly,4-Aug-00,Drama,PG-13,60786269.00,95070168.00
+The Crew,25-Aug-00,Comedy,PG-13,13019253.00,20362201.00
+Duets,15-Sep-00,Drama,R,4734235.00,7404372.00
+Remember the Titans,29-Sep-00,Drama,PG,115654751.00,180742479.00
+Unbreakable,22-Nov-00,Thriller/Suspense,PG-13,94999143.00,148208901.00
+102 Dalmatians,22-Nov-00,Comedy,G,66941559.00,104055039.00
+The Emperor's New Groove,15-Dec-00,Adventure,G,89296573.00,136789252.00
+"O Brother, Where Art Thou?",22-Dec-00,Comedy,PG-13,45506619.00,67922002.00
+Double Take,12-Jan-01,Action,PG-13,29823162.00,44418589.00
+Recess: School's Out,16-Feb-01,Comedy,G,36696761.00,54656124.00
+Just Visiting,6-Apr-01,Comedy,PG-13,4777007.00,7114869.00
+Pearl Harbor,25-May-01,Action,PG-13,198539855.00,295705112.00
+Atlantis: The Lost Empire,8-Jun-01,Adventure,PG,84052762.00,125188122.00
+crazy/beautiful,29-Jun-01,Drama,PG-13,16929123.00,25214223.00
+The Princess Diaries,3-Aug-01,Comedy,G,108244774.00,161218928.00
+Bubble Boy,24-Aug-01,Comedy,PG-13,5002310.00,7450434.00
+Max Keeble's Big Move,5-Oct-01,Comedy,PG,17292381.00,25749730.00
+Corky Romano,12-Oct-01,Comedy,PG-13,23978402.00,35705805.00
+High Heels and Low Lifes,26-Oct-01,,R,226792.00,337782.00
+"Monsters, Inc.",2-Nov-01,Adventure,G,289423425.00,416073179.00
+Out Cold,21-Nov-01,Comedy,PG-13,13906394.00,20700691.00
+The Royal Tenenbaums,14-Dec-01,Black Comedy,R,52353636.00,76758193.00
+Beauty and the Beast (IMAX),1-Jan-02,Musical,G,25487028.00,36980311.00
+Frank McKlusky C.I.,1-Jan-02,,,0.00,0.00
+Snow Dogs,18-Jan-02,Comedy,PG,81150692.00,117745317.00
+The Count of Monte Cristo,25-Jan-02,Drama,PG-13,54228104.00,78682079.00
+Peter Pan: Return to Neverland,15-Feb-02,Adventure,G,48430258.00,70269715.00
+Reign of Fire,19-Feb-02,Action,PG-13,43061982.00,62480631.00
+Sorority Boys,22-Mar-02,Comedy,R,10198766.00,14797862.00
+The Rookie,29-Mar-02,Drama,G,75600072.00,109691666.00
+Big Trouble,5-Apr-02,Comedy,PG-13,7262288.00,10537188.00
+ESPN's Ultimate X - The Movie,10-May-02,Documentary,PG,4197175.00,6089874.00
+Bad Company,7-Jun-02,Action,PG-13,30157016.00,43756218.00
+Lilo & Stitch,21-Jun-02,Adventure,PG,145771527.00,211506702.00
+The Country Bears,26-Jul-02,Adventure,G,16988996.00,24650121.00
+Signs,2-Aug-02,Thriller/Suspense,PG-13,227965690.00,330754439.00
+Sen to Chihiro no Kamikakushi,20-Sep-02,Adventure,PG,10049886.00,14338992.00
+Sweet Home Alabama,27-Sep-02,Comedy,PG-13,127214072.00,184521151.00
+Moonlight Mile,27-Sep-02,Drama,PG-13,6830957.00,9909094.00
+Tuck Everlasting,11-Oct-02,Drama,PG,19161999.00,27789959.00
+The Santa Clause 2,1-Nov-02,Comedy,G,139225854.00,201959095.00
+Treasure Planet,27-Nov-02,Adventure,PG,38120554.00,55189145.00
+The Hot Chick,13-Dec-02,Comedy,PG-13,35081550.00,50624654.00
+25th Hour,19-Dec-02,Drama,R,13084595.00,18325463.00
+The Recruit,31-Jan-03,Thriller/Suspense,PG-13,52784696.00,73793522.00
+Shanghai Knights,7-Feb-03,Adventure,PG-13,60470220.00,84537962.00
+The Jungle Book 2,14-Feb-03,Adventure,G,47901582.00,66966883.00
+Bringing Down the House,7-Mar-03,Comedy,PG-13,132675402.00,185481530.00
+Piglet's Big Movie,21-Mar-03,Comedy,G,23103423.00,32298812.00
+Ghosts of the Abyss,11-Apr-03,Documentary,G,17093668.00,23803108.00
+Holes,18-Apr-03,Drama,PG,67383924.00,94203395.00
+The Lizzie McGuire Movie,2-May-03,Comedy,PG,42734455.00,59743191.00
+Finding Nemo,30-May-03,Adventure,G,380529370.00,518148559.00
+Pirates of the Caribbean: The Curse o…,9-Jul-03,Adventure,PG-13,305411224.00,426967926.00
+Freaky Friday,6-Aug-03,Comedy,PG,110222438.00,154090360.00
+Open Range,15-Aug-03,Western,R,58331254.00,81547672.00
+Cold Creek Manor,19-Sep-03,Thriller/Suspense,R,21384035.00,29895090.00
+Under the Tuscan Sun,26-Sep-03,Comedy,PG-13,43601508.00,60944053.00
+Veronica Guerin,17-Oct-03,Drama,R,1569918.00,2194759.00
+Brother Bear,24-Oct-03,Adventure,G,85336277.00,119218333.00
+The Haunted Mansion,26-Nov-03,Comedy,PG,75817994.00,105775678.00
+Calendar Girls,19-Dec-03,Comedy,PG-13,31011616.00,42379650.00
+Young Black Stallion,25-Dec-03,Adventure,G,6751389.00,9254344.00
+Teacher's Pet: The Movie,16-Jan-04,Comedy,PG,6491969.00,8812764.00
+Miracle,6-Feb-04,Drama,PG,64378093.00,87392478.00
+Confessions of a Teenage Drama Queen,20-Feb-04,Comedy,PG,29331068.00,39816568.00
+Hidalgo,5-Mar-04,Western,PG-13,67286731.00,91340921.00
+The Ladykillers,26-Mar-04,Comedy,R,39692139.00,53881593.00
+Home on the Range,2-Apr-04,Comedy,PG,50026353.00,67910166.00
+The Alamo,9-Apr-04,Western,PG-13,22406362.00,30416359.00
+Raising Helen,28-May-04,Comedy,PG-13,37485528.00,50886144.00
+Around the World in 80 Days,16-Jun-04,Adventure,PG,24004159.00,32585356.00
+America's Heart and Soul,2-Jul-04,Documentary,Not Rated,314000.00,426246.00
+King Arthur,7-Jul-04,Adventure,PG-13,51877963.00,70423706.00
+The Village,30-Jul-04,Thriller/Suspense,PG-13,114197520.00,155021748.00
+The Princess Diaries 2: Royal Engagement,11-Aug-04,Romantic Comedy,G,95149435.00,129164207.00
+Mr. 3000,17-Sep-04,Comedy,PG-13,21800302.00,29593641.00
+The Last Shot,24-Sep-04,Comedy,R,463730.00,629502.00
+Ladder 49,1-Oct-04,Action,PG-13,74541707.00,101161045.00
+The Incredibles,5-Nov-04,Adventure,PG,261441092.00,354488708.00
+National Treasure,19-Nov-04,Adventure,PG,173005002.00,234069353.00
+The Life Aquatic with Steve Zissou,10-Dec-04,Comedy,R,24006726.00,32198655.00
+Aliens of the Deep,28-Jan-05,Documentary,G,8968684.00,11740942.00
+Pooh's Heffalump Movie,11-Feb-05,Adventure,G,18098433.00,23801835.00
+The Pacifier,4-Mar-05,Comedy,PG,113006880.00,148619029.00
+Ice Princess,18-Mar-05,Comedy,G,24381334.00,32064685.00
+A Lot Like Love,22-Apr-05,Comedy,PG-13,21835784.00,28716947.00
+The Hitchhiker's Guide to the Galaxy,29-Apr-05,Comedy,PG,51019112.00,67096891.00
+Hauru no ugoku shiro,10-Jun-05,Adventure,PG,4710455.00,6194870.00
+Herbie: Fully Loaded,22-Jun-05,Comedy,G,66010682.00,86812798.00
+Dark Water,8-Jul-05,Thriller/Suspense,PG-13,25473093.00,33500491.00
+Sky High,29-Jul-05,Adventure,PG,63939454.00,84088854.00
+Valiant,19-Aug-05,Adventure,G,19478106.00,25616292.00
+Flightplan,23-Sep-05,Thriller/Suspense,PG-13,89706988.00,117960425.00
+The Greatest Game Ever Played,30-Sep-05,Drama,PG,15331289.00,20162672.00
+Shopgirl,21-Oct-05,Drama,R,10284523.00,13519621.00
+Chicken Little,4-Nov-05,Adventure,G,135386665.00,177954661.00
+"The Chronicles of Narnia: The Lion, t…",9-Dec-05,Adventure,PG,291710957.00,381557539.00
+Casanova,25-Dec-05,Drama,R,11304403.00,14574087.00
+Glory Road,13-Jan-06,Drama,PG,42647449.00,54888236.00
+Annapolis,27-Jan-06,Drama,PG-13,17127992.00,22044113.00
+Roving Mars,27-Jan-06,Documentary,G,10407978.00,12948025.00
+Eight Below,17-Feb-06,Adventure,PG,81612565.00,105037235.00
+The Shaggy Dog,10-Mar-06,Comedy,PG,61123569.00,78667428.00
+Stay Alive,24-Mar-06,Horror,PG-13,23086480.00,29712825.00
+The Wild,14-Apr-06,Adventure,G,37384046.00,48114115.00
+Stick It,28-Apr-06,Comedy,PG-13,26910736.00,34634731.00
+Goal! The Dream Begins,12-May-06,Drama,PG,4283255.00,5512647.00
+Cars,9-Jun-06,Comedy,G,244082982.00,314140384.00
+Pirates of the Caribbean: Dead Man’…,7-Jul-06,Adventure,PG-13,423315812.00,544817142.00
+Step Up,11-Aug-06,Drama,PG-13,65328121.00,84078780.00
+Invincible,25-Aug-06,Drama,PG,57806952.00,74398864.00
+The Guardian,29-Sep-06,Action,PG-13,55011732.00,70801353.00
+The Prestige,20-Oct-06,Thriller/Suspense,PG-13,53089891.00,68289913.00
+Tim Burton's The Nightmare Before Chr…,20-Oct-06,Musical,PG,24732041.00,30737517.00
+The Santa Clause 3: The Escape Clause,3-Nov-06,Comedy,G,84500122.00,108694869.00
+Déjà Vu,22-Nov-06,Thriller/Suspense,PG-13,64038616.00,82267038.00
+Apocalypto,8-Dec-06,Adventure,R,50866635.00,64959548.00
+Primeval,12-Jan-07,Adventure,R,10597734.00,12985302.00
+Bridge to Terabithia,16-Feb-07,Drama,PG,82234139.00,100760721.00
+Wild Hogs,2-Mar-07,Comedy,PG-13,168213584.00,206110533.00
+Meet the Robinsons,30-Mar-07,Adventure,G,97822171.00,119860589.00
+The Lookout,30-Mar-07,Drama,R,4600585.00,5637048.00
+The Hoax,6-Apr-07,Drama,R,7164995.00,8779196.00
+The Invisible,27-Apr-07,Thriller/Suspense,PG-13,20568319.00,25202168.00
+Pirates of the Caribbean: At World’…,24-May-07,Adventure,PG-13,309420425.00,379129960.00
+Ratatouille,29-Jun-07,Comedy,G,206445654.00,252955933.00
+Underdog,3-Aug-07,Adventure,PG,43760605.00,53619462.00
+The Game Plan,22-Sep-07,Comedy,PG,90648202.00,111010758.00
+Dan in Real Life,20-Oct-07,Romantic Comedy,PG-13,47642963.00,58350234.00
+Enchanted,21-Nov-07,Romantic Comedy,PG,127706877.00,156074310.00
+National Treasure 2: Book of Secrets,21-Dec-07,Adventure,PG,219961501.00,267003525.00
+Hannah Montana/Miley Cyrus: Best of B…,1-Feb-08,Concert/Performance,G,65281781.00,76646993.00
+Step Up 2 the Streets,14-Feb-08,Drama,PG-13,58017783.00,68118371.00
+College Road Trip,7-Mar-08,Comedy,G,45610425.00,53550960.00
+The Chronicles of Narnia: Prince Caspian,16-May-08,Adventure,PG,141621490.00,166277038.00
+WALL-E,27-Jun-08,Adventure,G,223808164.00,262771918.00
+Swing Vote,1-Aug-08,Comedy,PG-13,16289867.00,19125841.00
+Goal! 2: Living the Dream...,29-Aug-08,Drama,PG-13,225067.00,264247.00
+Miracle at St. Anna,26-Sep-08,Drama,R,7916887.00,9295171.00
+Beverly Hills Chihuahua,3-Oct-08,Comedy,PG,94514402.00,110932022.00
+Morning Light,17-Oct-08,Documentary,PG,275093.00,322979.00
+High School Musical 3: Senior Year,24-Oct-08,Musical,G,90559416.00,106308538.00
+Bolt,21-Nov-08,Comedy,PG,114053759.00,133702498.00
+Bedtime Stories,25-Dec-08,Comedy,PG,110101975.00,128039679.00
+Confessions of a Shopaholic,13-Feb-09,Romantic Comedy,PG,44277350.00,49767744.00
+Jonas Brothers: The 3D Concert Experi…,27-Feb-09,Concert/Performance,G,38174685.00,38174685.00
+Race to Witch Mountain,13-Mar-09,Adventure,PG,67172594.00,75501997.00
+Hannah Montana the Movie,10-Apr-09,Drama,G,79576189.00,89443640.00
+Earth,22-Apr-09,Documentary,G,32011576.00,35981010.00
+Up,29-May-09,Adventure,PG,293004164.00,329336681.00
+The Proposal,19-Jun-09,Romantic Comedy,PG-13,163958031.00,184288829.00
+G-Force,24-Jul-09,Adventure,PG,119436770.00,134246932.00
+Gake no ue no Ponyo,14-Aug-09,Adventure,G,15090399.00,16961607.00
+X Games 3D: The Movie,21-Aug-09,Documentary,PG,1391434.00,1563976.00
+Walt and El Grupo,10-Sep-09,Documentary,PG,20521.00,23064.00
+Surrogates,25-Sep-09,Action,PG-13,38577772.00,43361416.00
+Toy Story 3D Double Feature,2-Oct-09,Adventure,G,30702446.00,34509545.00
+Disney's A Christmas Carol,6-Nov-09,Drama,PG,137855863.00,154927105.00
+The Princess and the Frog,25-Nov-09,Adventure,G,104400899.00,116316457.00
+Old Dogs,25-Nov-09,Comedy,PG,49492060.00,55503929.00
+When in Rome,29-Jan-10,Romantic Comedy,PG-13,32680633.00,34917330.00
+Alice in Wonderland,5-Mar-10,Adventure,PG,334191110.00,357063499.00
+Waking Sleeping Beauty,26-Mar-10,Documentary,PG,80741.00,86264.00
+The Last Song,31-Mar-10,Drama,PG,62950384.00,67258772.00
+Oceans,22-Apr-10,Documentary,G,19422319.00,20751600.00
+Prince of Persia: Sands of Time,28-May-10,Action,PG-13,90759676.00,96971361.00
+Toy Story 3,18-Jun-10,Adventure,G,415004880.00,443408255.00
+The Sorcerer's Apprentice,14-Jul-10,Adventure,PG,63150991.00,67473105.00
+Step Up 3D,6-Aug-10,Drama,PG-13,42400223.00,45302137.00
+Gedo Senki (Tales from Earthsea),13-Aug-10,Adventure,PG-13,48658.00,51988.00
+You Again,24-Sep-10,Comedy,PG,25702053.00,27461121.00
+Secretariat,8-Oct-10,Drama,PG,59699513.00,63781920.00
+Tangled,24-Nov-10,Adventure,PG,200821936.00,214388548.00
+Tron: Legacy,17-Dec-10,Adventure,PG,172062763.00,183619259.00
+Gnomeo and Juliet,11-Feb-11,Comedy,G,99967670.00,106270797.00
+I am Number Four,18-Feb-11,Adventure,PG-13,55100437.00,58574607.00
+Mars Needs Moms,11-Mar-11,Adventure,PG,21392758.00,22741603.00
+African Cats,22-Apr-11,Documentary,G,15428747.00,16401551.00
+Zokkomon,22-Apr-11,Adventure,PG,2815.00,2984.00
+Prom,29-Apr-11,Comedy,PG,10130219.00,10768946.00
+Pirates of the Caribbean: On Stranger…,20-May-11,Adventure,PG-13,241063875.00,256263359.00
+Cars 2,24-Jun-11,Adventure,G,191450875.00,203522177.00
+Winnie the Pooh,15-Jul-11,Adventure,G,26692846.00,28375869.00
+The Help,10-Aug-11,Drama,PG-13,169705587.00,180404976.00
+Fright Night,19-Aug-11,Horror,R,18298649.00,19452402.00
+Real Steel,7-Oct-11,Action,PG-13,85463309.00,90848019.00
+The Muppets,23-Nov-11,Comedy,PG,88625922.00,94189503.00
+War Horse,25-Dec-11,Drama,PG-13,79883359.00,84762149.00
+The Secret World of Arietty,17-Feb-12,Adventure,G,19192510.00,20325733.00
+John Carter,9-Mar-12,Adventure,PG-13,73058679.00,77372445.00
+Chimpanzee,20-Apr-12,Documentary,G,28965459.00,30675725.00
+The Avengers,4-May-12,Action,PG-13,623279547.00,660081224.00
+Brave,22-Jun-12,Adventure,PG,237282182.00,251292441.00
+People Like Us,29-Jun-12,Drama,PG-13,12431792.00,13165822.00
+The Odd Life of Timothy Green,15-Aug-12,Drama,PG,51853450.00,54914942.00
+Frankenweenie,5-Oct-12,Comedy,PG,35287788.00,37363513.00
+Wreck-It Ralph,2-Nov-12,Adventure,PG,189412677.00,200354959.00
+Lincoln,9-Nov-12,Drama,PG-13,182207973.00,192122330.00
+Oz the Great and Powerful,8-Mar-13,Adventure,PG,234770996.00,243434130.00
+Iron Man 3,3-May-13,Action,PG-13,408992272.00,424084233.00
+Monsters University,21-Jun-13,Adventure,G,268488329.00,278395641.00
+The Lone Ranger,2-Jul-13,Western,PG-13,89302115.00,92597388.00
+Disney Planes,9-Aug-13,Comedy,PG,90282580.00,93614037.00
+The Fifth Estate,18-Oct-13,Drama,R,3254172.00,3374251.00
+Thor: The Dark World,8-Nov-13,Adventure,PG-13,206362140.00,213962184.00
+Kaze Tachinu,8-Nov-13,Drama,PG-13,5201879.00,5367415.00
+Frozen,22-Nov-13,Adventure,PG,400738009.00,414997174.00
+Delivery Man,22-Nov-13,Comedy,PG-13,30659817.00,31787136.00
+Saving Mr. Banks,13-Dec-13,Drama,PG-13,83299761.00,86249969.00
+Need for Speed,14-Mar-14,Action,PG-13,43568507.00,44955015.00
+Muppets Most Wanted,21-Mar-14,Comedy,PG,51178893.00,52807594.00
+Captain America: The Winter Soldier,4-Apr-14,Action,PG-13,259746958.00,268013076.00
+Bears,18-Apr-14,Documentary,G,17780194.00,18346024.00
+Million Dollar Arm,10-May-14,Drama,PG,36447959.00,37607865.00
+Maleficent,30-May-14,Adventure,PG,241407328.00,249089809.00
+Planes: Fire and Rescue,18-Jul-14,Adventure,PG,59157732.00,61040349.00
+Guardians of the Galaxy,1-Aug-14,Adventure,PG-13,333172112.00,343771168.00
+The Hundred-Foot Journey,8-Aug-14,Romantic Comedy,PG,54235441.00,55961409.00
+"Alexander and the Terrible, Horrible,…",10-Oct-14,Comedy,PG,66954149.00,69055550.00
+Big Hero 6,7-Nov-14,Adventure,PG,222527828.00,229249222.00
+Into the Woods,25-Dec-14,Musical,PG,128002372.00,130894237.00
+Strange Magic,23-Jan-15,Adventure,PG,12429583.00,12429583.00
+"McFarland, USA",20-Feb-15,Drama,PG,44480275.00,44480275.00
+Cinderella,13-Mar-15,Drama,PG,201151353.00,201151353.00
+Monkey Kingdom,17-Apr-15,Documentary,G,16432322.00,16432322.00
+Avengers: Age of Ultron,1-May-15,Action,PG-13,459005868.00,459005868.00
+Tomorrowland,22-May-15,Adventure,PG,93436322.00,93436322.00
+Inside Out,19-Jun-15,Adventure,PG,356461711.00,356461711.00
+Ant-Man,17-Jul-15,Action,PG-13,180202163.00,180202163.00
+Bridge of Spies,16-Oct-15,Thriller/Suspense,PG-13,72313754.00,72313754.00
+The Good Dinosaur,25-Nov-15,Adventure,PG,123087120.00,123087120.00
+Star Wars Ep. VII: The Force Awakens,18-Dec-15,Adventure,PG-13,936662225.00,936662225.00
+The Finest Hours,29-Jan-16,Thriller/Suspense,PG,27569558.00,27569558.00
+Zootopia,4-Mar-16,Adventure,PG,341268248.00,341268248.00
+The Jungle Book,15-Apr-16,Adventure,PG,364001123.00,364001123.00
+A Beautiful Planet,29-Apr-16,Documentary,G,7895708.00,7895708.00
+Captain America: Civil War,6-May-16,Action,PG-13,408084349.00,408084349.00
+Alice Through the Looking Glass,27-May-16,Adventure,PG,77042381.00,77042381.00
+Finding Dory,17-Jun-16,Adventure,PG,486295561.00,486295561.00
+The BFG,1-Jul-16,Adventure,PG,55483770.00,55483770.00
+Pete’s Dragon,12-Aug-16,Adventure,PG,76233151.00,76233151.00
+The Light Between Oceans,2-Sep-16,Drama,PG-13,12545979.00,12545979.00
+Queen of Katwe,23-Sep-16,Drama,PG,8874389.00,8874389.00
+Doctor Strange,4-Nov-16,Adventure,PG-13,232532923.00,232532923.00
+Moana,23-Nov-16,Adventure,PG,246082029.00,246082029.00
+Rogue One: A Star Wars Story,16-Dec-16,Adventure,PG-13,529483936.00,529483936.00

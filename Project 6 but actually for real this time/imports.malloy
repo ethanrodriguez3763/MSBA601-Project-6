@@ -1,0 +1,8 @@
+source: movies is duckdb.table('./disney_movies_total_gross.csv') extend {
+  dimension: releaseYear is substr(release_date, -2)
+}
+
+source: revenue is duckdb.table('./disney_revenue_1991-2016.csv') extend {
+  dimension: movieYearSTR is movieYear:: string
+
+}

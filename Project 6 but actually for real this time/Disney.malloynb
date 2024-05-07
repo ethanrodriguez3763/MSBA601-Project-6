@@ -1,0 +1,160 @@
+>>>malloy
+import "imports.malloy"
+>>>markdown
+Total Revenue over Time
+>>>malloy
+# line_chart
+run: revenue-> {
+    group_by: movieYearSTR, Total    
+}
+>>>markdown
+Most Profitable Movies (without Inflation)
+>>>malloy
+run: movies-> {
+    group_by: movie_title, total_gross
+    limit: 10
+    order_by: total_gross desc
+}
+>>>markdown
+Least Profitable Movies (without Inflation)
+>>>malloy
+run: movies-> {
+    group_by: movie_title, total_gross
+    limit: 10
+    order_by: total_gross asc
+}
+>>>markdown
+Most Profitable Movies (Inflation Adjusted)
+>>>malloy
+run: movies-> {
+    group_by: movie_title, inflation_adjusted_gross
+    limit: 10
+    order_by: inflation_adjusted_gross desc
+}
+>>>markdown
+Least Profitable Movies (with Inflation)
+>>>malloy
+run: movies-> {
+    group_by: movie_title, inflation_adjusted_gross
+    limit: 10
+    order_by: inflation_adjusted_gross asc
+}
+>>>markdown
+Count of Movies each Year
+>>>malloy
+# bar_chart
+run: movies-> {
+    group_by: releaseYear
+    aggregate: moviesperYear is count()
+    
+}
+>>>markdown
+Movie Types over Time
+>>>malloy
+# bar_chart
+run: movies-> {
+    group_by: releaseYear
+    aggregate: comedy is count()
+    where: genre = 'Comedy' 
+    
+}
+# bar_chart
+run: movies-> {
+    group_by: releaseYear
+    aggregate: adventure is count()
+    where: genre = 'Adventure' 
+        
+}
+
+# bar_chart
+run: movies-> {
+    group_by: releaseYear
+    aggregate: action is count()
+    where: genre = 'Action' 
+       
+}
+
+# bar_chart
+run: movies-> {
+    group_by: releaseYear
+    aggregate: drama is count()
+    where: genre = 'Drama' 
+         
+}
+
+# bar_chart
+run: movies-> {
+    group_by: releaseYear
+    aggregate: romCom is count()
+    where: genre = 'Romantic Comedy' 
+       
+}
+>>>markdown
+Genres per Year
+>>>malloy
+run: movies-> {
+    group_by: releaseYear
+    aggregate: genres is count(genre)
+    --where: genre != null
+    nest: genreDesc is {
+        group_by:  genre
+        aggregate: countperGenre is count(movie_title)
+    }
+}
+>>>markdown
+Ratings by Genre
+>>>malloy
+run: movies-> {
+    group_by: MPAA_rating
+    aggregate: genres is count(genre)
+    --: MPAA_rating != 'MPAA_rating' and MPAA_rating != null and genre != null
+    nest: genreDesc is {
+        group_by:  genre
+        aggregate: countperGenre is count(movie_title)
+    }
+}
+>>>markdown
+Most profitable movies by Genre
+>>>malloy
+run: movies-> {
+    group_by: genre
+    nest: highRev is {
+        group_by: movie_title, total_gross
+        limit: 1
+        order_by: total_gross desc
+        nest: additionalInfo is {
+            group_by: releaseYear, MPAA_rating
+        }
+    }
+    
+}
+>>>markdown
+Most profitable movies by Rating
+>>>malloy
+run: movies-> {
+    group_by: MPAA_rating
+    nest: highRev is {
+        group_by: movie_title, total_gross
+        order_by: total_gross desc
+        limit: 1
+        nest: additionalInfo is {
+            group_by: releaseYear, genre
+        }
+    }
+    
+}
+>>>markdown
+Most Profitble Movies by Year
+>>>malloy
+run: movies-> {
+    group_by: releaseYear
+    nest: highRev is {
+        group_by: movie_title, total_gross
+        order_by: total_gross desc
+        limit: 1
+        nest: additionalInfo is {
+            group_by: MPAA_rating, genre
+        }
+    }
+    
+}
